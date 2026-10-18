@@ -1,0 +1,16 @@
+Vitalik's World asset credits
+
+Photo: VitalikButerinProfile.jpg, Romanpoet, 4 June 2016.
+Source: https://commons.wikimedia.org/wiki/File:VitalikButerinProfile.jpg
+Original: https://upload.wikimedia.org/wikipedia/commons/a/af/VitalikButerinProfile.jpg
+License: Creative Commons Attribution-ShareAlike 4.0 International
+https://creativecommons.org/licenses/by-sa/4.0/
+The supplied JPEG is unmodified. The website displays it with a CSS crop and rotation.
+The photographer does not endorse this independent website.
+
+DM Sans: Colophon Foundry, licensed under the SIL Open Font License 1.1.
+Lora: Cyreal, licensed under the SIL Open Font License 1.1.
+Local variable WOFF2 Latin subsets from @fontsource-variable/dm-sans@5.2.8
+and @fontsource-variable/lora@5.2.8. License texts are included in this folder.
+
+The vector illustrations and share-card composition were created for this site.
